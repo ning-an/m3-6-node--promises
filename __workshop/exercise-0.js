@@ -22,3 +22,5 @@ compareToTen(15)
 compareToTen(8)
   .then((result) => console.log(result))
   .catch((error) => console.log(error));
+
+console.log(myPromise);
